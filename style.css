@@ -21,7 +21,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 1rem 2rem;
-    background-color: #4CAF50;
+    background-color:green;
     color: #fff;
 }
 
@@ -110,7 +110,7 @@ color: blue;
 
 #about .time {border-radius: 10px;
     color: blue;
-    box-shadow:10px 10px 5px lightgreen;
+    box-shadow:10px 10px 5px green;
 
 }
 .about h2 {
@@ -172,7 +172,7 @@ color: blue;
     font-size: 1.5rem;
     margin-bottom: 0.5rem;
     border-radius: 20px;
-    background-color: #f0a500;
+    background-color: lightgreen;
 }
 
 /* Contact Section */
@@ -187,7 +187,7 @@ flex-direction: column;
  align-items: center;
  align-content: center;
  justify-items: center;
- background-color: lightgreen;
+ background-color:green;
  border-radius: 10px;
 
 }
@@ -212,7 +212,7 @@ flex-direction: column;
 footer {
     text-align: center;
     padding: 1rem;
-    background-color: #4CAF50;
+    background-color: green;
     color: #fff;
     position: relative;
     bottom: 0;
@@ -224,10 +224,10 @@ footer {
     text-align: center;
     border: #4CAF50;
     margin: 5px;
-    background-color: aquamarine;
+    background-color:white;
     width: fit-content;
 justify-content:center ;
-
+font-weight: bold;
 align-items: center;
 align-content: center;
 text-align: center;
